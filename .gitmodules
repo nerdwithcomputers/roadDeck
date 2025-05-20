@@ -1,0 +1,3 @@
+[submodule "mirakeeb-full"]
+	path = mirakeeb-full
+	url = https://github.com/nerdwithcomputers/mirakeeb-full
