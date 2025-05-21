@@ -5,13 +5,13 @@ this is the first cyberdeck I've ever built, so this should be interesting. This
 ## instructions
 ---
 * print out all of the required files
- - for the screen, that's just `protect-v2 mech-mount.step`, but make sure to split the step in your slicer, since the top part of the frame can be printed seperately to avoid supports
- - for the keyboard, go to the submodule in this repo (or [mirakeeb-full](github.com/nerdwithcomputers/mirakeeb-full)), but don't print the of the keyboard, only print the faceplates and instead print the `keeb-modified.step` from this repo to get the clip to snap the pi assembly into
+    - for the screen, that's just `protect-v2 mech-mount.step`, but make sure to split the step in your slicer, since the top part of the frame can be printed seperately to avoid supports
+    - for the keyboard, go to the submodule in this repo (or [mirakeeb-full](github.com/nerdwithcomputers/mirakeeb-full)), but don't print the of the keyboard, only print the faceplates and instead print the `keeb-modified.step` from this repo to get the clip to snap the pi assembly into
 * gather the hardware!
- - the pcb for the keeb is in [mirakeeb-full](github.com/nerdwithcomputers/mirakeeb-full) or the submodule, and you can get it manufactured wherever, just make sure to look at the parts list
- - get the battery I [used](https://www.amazon.com/dp/B0CX53BLM5), or something else with similar dimensions, since the one I used is really really heavy, but it was the only decently portable thing I found that could supply the 25 BLOODY WATTS that the pi 5 needs
- - grab a pi 5 and heatsink from wherever is convenient
- - grab the pi touchscreen 2 from probably the same place
+    - the pcb for the keeb is in [mirakeeb-full](github.com/nerdwithcomputers/mirakeeb-full) or the submodule, and you can get it manufactured wherever, just make sure to look at the parts list
+    - get the battery I [used](https://www.amazon.com/dp/B0CX53BLM5), or something else with similar dimensions, since the one I used is really really heavy, but it was the only decently portable thing I found that could supply the 25 BLOODY WATTS that the pi 5 needs
+    - grab a pi 5 and heatsink from wherever is convenient
+    - grab the pi touchscreen 2 from probably the same place
 * assemble!
- - it's not a horribly complicated build, and all of the screws you need should come with the pi touchscreen for mounting it
- - if anything is unclear, feel free to open an issue or a pr, obviously, this is foss and fosh
+    - it's not a horribly complicated build, and all of the screws you need should come with the pi touchscreen for mounting it
+    - if anything is unclear, feel free to open an issue or a pr, obviously, this is foss and fosh
